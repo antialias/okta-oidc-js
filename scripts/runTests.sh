@@ -2,7 +2,6 @@
 
 PACKAGES=(
   "./packages/configuration-validation"
-  # is having issues "./packages/jwt-verifier"
   "./packages/oidc-middleware"
 )
 

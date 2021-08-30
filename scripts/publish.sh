@@ -29,7 +29,6 @@ fi
 
 PACKAGES=(
   "./packages/configuration-validation"
-  "./packages/jwt-verifier"
   "./packages/oidc-middleware"
 )
 
